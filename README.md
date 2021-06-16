@@ -7,6 +7,9 @@ Codebasics (YouTube): https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hj
 
 CNN Illustration: https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
 
+Simulated Annealing: https://en.wikipedia.org/wiki/Simulated_annealing
+
+https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/
 
 
 Note:
