@@ -11,4 +11,5 @@ Simulated Annealing: https://en.wikipedia.org/wiki/Simulated_annealing
 
 https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/
 
-Course By Google: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+# Course By Google: 
+https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
