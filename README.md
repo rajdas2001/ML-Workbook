@@ -13,3 +13,9 @@ https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/
 
 # Course By Google: 
 https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+
+# NLP Basics
+https://www.datacamp.com/community/tutorials/simplifying-sentiment-analysis-python
+
+# Data Engineering and Science
+https://tealfeed.com/successful-data-engineer-2021-zgifu by Jash Radia Senior Data Engineer @ ZS
