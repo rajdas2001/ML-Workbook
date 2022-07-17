@@ -21,3 +21,8 @@ https://www.datacamp.com/community/tutorials/simplifying-sentiment-analysis-pyth
 
 # Data Engineering and Science
 https://tealfeed.com/successful-data-engineer-2021-zgifu by Jash Radia Senior Data Engineer @ ZS
+
+# Interview Questions
+
+1. https://campussecorporate.com/index/
+2. ZS: https://campussecorporate.com/zs-associates-interview-questions-2/
